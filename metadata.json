@@ -1,0 +1,6 @@
+{
+  "name": "College Work Hub",
+  "description": "Role-separated academic portal with student study access, admin file review, AI-assisted experiment classification, and WhatsApp Business API integration setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
